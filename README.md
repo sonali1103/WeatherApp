@@ -13,5 +13,5 @@ This is a simple weather app built using Node.js. It allows users to get the cur
 4. Run the app using `node src/app.js`.
 
 ## Demo Link
-(https://weather-app-06sf.onrender.com/)
+[Demo](https://weather-app-06sf.onrender.com/)
 
